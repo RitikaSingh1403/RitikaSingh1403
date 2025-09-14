@@ -47,15 +47,6 @@
 
 ---
 
-### 📚 Publications & Achievements
-
-- **Co-Author** of a Scopus-indexed book chapter on **AI security in Cloud-IoT**, published by **Wiley**.
-- Presented research on cloud computing security at an **international conference (700+ attendees)**.
-- **Oracle Certified Professional:** Java SE II Developer.
-- **HackerRank:** 5⭐ in Java | 5⭐ in SQL
-
----
-
 ### 📞 Let's Connect!
 
 <p align="left">
