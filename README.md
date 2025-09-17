@@ -46,6 +46,7 @@
 | **Co-can** | `React` `Node.js` `Excalidraw` `Judge0` | An integrated platform for DSA education combining a code editor and digital scratchpad. |
 | **PawAlert** | `Supabase` `HTML` `CSS` `JS` `MySQL` | A responsive web app to report injured/lost animals via image submissions and geolocation. |
 
+
 ---
 
 ### 📞 Let's Connect!
@@ -55,6 +56,6 @@
 <a href="mailto:ritikasinghsikarwar1411@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" width="40" /></a>
 </p>
 
----
+
 
 ⭐ *From Ritika Singh*
