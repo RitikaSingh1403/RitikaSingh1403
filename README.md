@@ -45,7 +45,7 @@
 | **BlissBloom** | `HTML` `CSS` `JS` `Python` `PHP` `MySQL` `ML` | Developed a mood-based recommendation platform for music, recipes, movies, and exercises. |
 | **Co-can** | `React` `Node.js` `Excalidraw` `Judge0` | An integrated platform for DSA education combining a code editor and digital scratchpad. |
 | **PawAlert** | `Supabase` `HTML` `CSS` `JS` `MySQL` | A responsive web app to report injured/lost animals via image submissions and geolocation. |
-| **AudioBook using Python** |`HTML` `CSS` `JS` `Python` | a simple python project gives a voice to your books. |
+| **AudioBook using Python** |`HTML` `CSS` `JS` `Python` | A simple python project gives a voice to your books. |
 | **Spooky Tic-Tac-Toe** |`HTML` `CSS` `JS` | A Halloween-themed Tic Tac Toe game featuring ghost and pumpkin players. |
 
 
