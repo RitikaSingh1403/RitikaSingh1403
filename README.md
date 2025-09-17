@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ritika Singh</h1>
 
+> "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+
 ---
 
 ### 📊 GitHub Stats & Activity
@@ -41,8 +43,16 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **BlissBloom** | `HTML` `CSS` `JS` `Python` `PHP` `MySQL` `ML` | Developed a mood-based recommendation platform for music, recipes, movies, and exercises. |
-| **Co-can** | `React` `Node.js` `MongoDB` `Excalidraw` `Judge0` | An integrated platform for DSA education combining a code editor and digital scratchpad. |
+| **Co-can** | `React` `Node.js` `Excalidraw` `Judge0` | An integrated platform for DSA education combining a code editor and digital scratchpad. |
 | **PawAlert** | `Supabase` `HTML` `CSS` `JS` `MySQL` | A responsive web app to report injured/lost animals via image submissions and geolocation. |
+
+---
+
+### ✨ Commit Chronicles
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaSingh1403&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
