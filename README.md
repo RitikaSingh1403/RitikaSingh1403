@@ -48,14 +48,6 @@
 
 ---
 
-### ✨ Commit Chronicles
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikaSingh1403&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timestamp=20240117" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📞 Let's Connect!
 
 <p align="left">
