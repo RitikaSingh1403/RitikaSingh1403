@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ritika Singh</h1>
 
-> "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+## "The beautiful thing about learning is that no one can take it away from you."  - B.B. King
 
----
 
 ### 📊 GitHub Stats & Activity
 
