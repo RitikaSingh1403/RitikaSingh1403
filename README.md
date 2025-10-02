@@ -1,18 +1,34 @@
-<h1 align="center">Hi there 👋, I'm Ritika Singh</h1>
+<h1>Hi There 👋, I'm Ritika Singh</h1>
 
-## "The beautiful thing about learning is that no one can take it away from you."  - B.B. King
+---
 
+### "The beautiful thing about learning is that no one can take it away from you."  - B.B. King
 
-### 📊 GitHub Stats & Activity
+---
+
+<div align="center">
+  
+## 📊 GitHub Stats & Activity
+
+</div>
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaSingh1403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikaSingh1403&theme=radical" alt="Profile Summary" />
 </p>
+<div align="center">
+
+## 🐍 Contribution Snake Game
+
+![GitHub Contribution Snake](https://github.com/RitikaSingh1403/RitikaSingh1403/blob/output/github-contribution-snake.svg)
+
+*Watch the snake navigate through my contribution history!*
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Programming Languages:**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +53,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
