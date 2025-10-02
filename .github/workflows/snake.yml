@@ -18,17 +18,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         
-      - name: Generate Multiple Snake Themes
+      - name: Generate Perfect GitHub Snake
         uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: RitikaSingh1403
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-purple-dark.svg?palette=github-dark&color_snake=#8b5cf6&color_dots=#a78bfa,#8b5cf6,#7c3aed,#6d28d9
-            dist/snake-blue-dark.svg?palette=github-dark&color_snake=#3b82f6&color_dots=#60a5fa,#3b82f6,#2563eb,#1d4ed8
-            dist/snake-green-dark.svg?palette=github-dark&color_snake=#10b981&color_dots=#34d399,#10b981,#059669,#047857
-            dist/snake-pink-dark.svg?palette=github-dark&color_snake=#ec4899&color_dots=#f472b6,#ec4899,#db2777,#be185d
+          svg_out_path: dist/perfect-snake.svg
+          gif_out_path: dist/perfect-snake.gif
+          github_graph_url: https://github.com/users/RitikaSingh1403/contributions
           
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
