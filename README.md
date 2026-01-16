@@ -13,7 +13,6 @@
 </div>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikaSingh1403&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikaSingh1403&theme=radical" alt="Profile Summary" />
 </p>
 <div align="center">
