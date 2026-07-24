@@ -1,73 +1,118 @@
-<h1>Hi There 👋, I'm Ritika Singh</h1>
-
----
-
-### "The beautiful thing about learning is that no one can take it away from you."  - B.B. King
-
----
-
-<div align="center">
-  
-## 📊 GitHub Stats & Activity
-
-</div>
+<h1 align="center">Hi There 👋, I'm Ritika Singh</h1>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RitikaSingh1403&theme=radical" alt="Profile Summary" />
+  <i>"The beautiful thing about learning is that no one can take it away from you."</i>
+  <br>
+  — B.B. King
 </p>
-<div align="center">
 
-## 🐍 Contribution Snake Game
+---
 
-![GitHub Contribution Snake](https://github.com/RitikaSingh1403/RitikaSingh1403/blob/output/github-contribution-snake.svg)
+## 👩‍💻 About Me
 
-*Watch the snake navigate through my contribution history!*
+I'm a Computer Science student who enjoys turning ideas into practical web applications.
 
-</div>
+I love building projects that solve real-world problems, exploring new technologies, and constantly improving my development skills one project at a time.
+
+Whether it's creating a collaborative coding platform, developing a wellness application, or building solutions that can make a small difference in people's lives, I believe every project is an opportunity to learn something new.
+
+---
+
+## 🌱 Currently Building
+
+🐾 **PawAlert**
+> A community-driven platform to report injured and lost animals using images and location data.
+
+💻 **Co-can**
+> An interactive platform that combines a collaborative code editor with a digital whiteboard to make learning DSA more intuitive.
+
+📚 Continuously strengthening my skills in Full Stack Development, React, Backend Development and Data Structures & Algorithms.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Web Development
 
-**Web Technologies:**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Concepts:**
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **BlissBloom** | `HTML` `CSS` `JS` `Python` `PHP` `MySQL` `ML` | Developed a mood-based recommendation platform for music, recipes, movies, and exercises. |
-| **Co-can** | `React` `Node.js` `Excalidraw` `Judge0` | An integrated platform for DSA education combining a code editor and digital scratchpad. |
-| **PawAlert** | `Supabase` `HTML` `CSS` `JS` `MySQL` | A responsive web app to report injured/lost animals via image submissions and geolocation. |
-| **AudioBook using Python** |`HTML` `CSS` `JS` `Python` | A simple python project gives a voice to your books. |
-| **Spooky Tic-Tac-Toe** |`HTML` `CSS` `JS` | A Halloween-themed Tic Tac Toe game featuring ghost and pumpkin players. |
-
+| Project | Description |
+|:--------|:------------|
+| 🐾 **PawAlert** | A responsive web application that helps users report injured and lost animals using image uploads and geolocation. |
+| 💻 **Co-can** | A collaborative DSA learning platform integrating a code editor and digital whiteboard. |
+| 🌸 **BlissBloom** | A mood-based wellness platform recommending music, recipes, movies and exercises. |
+| 🎧 **Audiobook using Python** | Converts PDF books into audiobooks using Python. |
+| 🎃 **Spooky Tic-Tac-Toe** | A Halloween-themed web game built with HTML, CSS and JavaScript. |
 
 ---
 
-### 📞 Let's Connect!
+<div align="center">
 
+## 🐍 Contribution Snake
 
-⭐ *From Ritika Singh*
+![GitHub Contribution Snake](https://raw.githubusercontent.com/RitikaSingh1403/RitikaSingh1403/output/github-contribution-snake.svg)
 
+<i>Watching the snake grow one contribution at a time.</i>
 
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Full Stack Web Development
+- Backend Development
+- REST APIs
+- Data Structures & Algorithms
+- Writing cleaner and more maintainable code
+
+---
+
+## 📂 What You'll Find Here
+
+✨ Real-world projects
+
+💻 Learning experiments
+
+📖 DSA practice
+
+🚀 Continuous improvement
+
+🌱 Curiosity that turns into code
+
+---
+
+## 💡 My Philosophy
+
+```
+Build.
+Learn.
+Improve.
+Repeat.
+```
+
+Every repository represents something I learned along the way.
+
+---
+
+⭐ *Building today. Learning forever.*
